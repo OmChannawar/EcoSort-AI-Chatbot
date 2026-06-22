@@ -1,6 +1,6 @@
 # EcoSort - Household Waste Segregation Assistant 🌲
 
-🚀 **[CLICK HERE TO TRY THE LIVE AI CHATBOT INTERACTIVE DEMO](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/21/16/20260621160412-D75FSUVD.json)**
+<h2><a href="https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/21/16/20260621160412-D75FSUVD.json" target="_blank">🚀 CLICK HERE TO TRY THE LIVE AI CHATBOT INTERACTIVE DEMO</a></h2>
 
 EcoSort is an interactive AI chatbot application explicitly aligned with **United Nations Sustainable Development Goal 12: Responsible Consumption and Production**. It eliminates recycling confusion at the household level by instantly identifying the proper bin location for common items.
 
